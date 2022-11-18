@@ -57,7 +57,7 @@ PS: Hvis du vil se din egen nettside på laptopen, er det bare å oppdatere ifra
 
 ## Lær mer om 3D
 
-Hvis du syntes 3D på web er interessant så anbefaler jeg på det varmeste kurset til [Bruno simon](https://threejs-journey.com/#). Du kan hoppe rett inn i react-three-fiber og drei. Men jeg anbefaler å gå litt dypere i threejs basics, slik at du har et bra fundament og forstår hva som skjer "under the hood".
+Hvis du syntes 3D på web er interessant så anbefaler jeg på det varmeste kurset til [Bruno simon](https://threejs-journey.com/#). Dette prosjektet er basert på en av videoene i kurset. Du kan hoppe rett inn i react-three-fiber og drei. Men jeg anbefaler å gå litt dypere i threejs basics, slik at du har et bra fundament og forstår hva som skjer "under the hood".
 
 ---
 
