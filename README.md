@@ -22,7 +22,7 @@ npm run dev
 
 ---
 
-## Ressurser
+## Rammeverk
 
 En liten gjennomgang av rammeverkene brukt i prosjektet.
 
@@ -37,7 +37,6 @@ React three fiber er en "React renderer for three.js.". Den gjør det enkelt å 
 ### [Drei](https://github.com/pmndrs/drei)
 
 Drei er et stort bibliotek med komponenter og helpers for React Three Fiber. De komponentene som er brukt her er:
-
 
 #### [Environment](https://github.com/pmndrs/drei#environment) 
 
@@ -63,5 +62,5 @@ Hvis du syntes 3D på web er interessant så anbefaler jeg på det varmeste kurs
 
 ## Bidra
 
-Alle bidrag tas i mot med åpene armer! Bare lag en fork av prosjektet og åpne en pull request. Du kan lese mer om hvordan å gjøre det [her](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+Alle bidrag tas i mot med åpne armer! Lag en fork av dette repository og så åpne en pull request. Du kan lese mer om hvordan å gjøre det [her](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
